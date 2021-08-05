@@ -1,7 +1,5 @@
-<h1 align="center">Hey! I'm Kushagra Gupta<img src="wave.gif" width="30px"></h1>
-<h3 align="center">Computer Science Undergraduate</h3>
+<h1 align="center">WELCOME!!! To My Git Hub Account<img src="wave.gif" width="40px"></h1>
 <p align="center">
-    
 <img src="https://komarev.com/ghpvc/?username=iamkrati" alt="Guptakg2620" />
 <br/>
 <a href="https://www.linkedin.com/in/gupta-kushagra2620/"><img src="https://img.shields.io/badge/-Kushgara Gupta-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
