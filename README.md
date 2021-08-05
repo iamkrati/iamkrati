@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=iamkrati" alt="Guptakg2620" />
 <br/>
-<a href="https://www.linkedin.com/in/gupta-kushagra2620/"></a>
+<a href="https://www.linkedin.com/in/gupta-kushagra2620/"><img src="https://img.shields.io/badge/-Kushgara Gupta-blue"></a>
 <a href="mailto:guptakushagra202@gmail.com"><img src="https://img.shields.io/badge/-guptakushagra202@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:guptakushagra202@gmail.com"></a>
 <a href="https://twitter.com/gupta_kush26"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20gupta_kush26"></a>
 </p>
