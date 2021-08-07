@@ -1,6 +1,6 @@
 <h1 align="center">WELCOME!!! To My Git Hub Account<img src="tenor.gif" width="40px"></h1>
 <p>
-hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from <b><font color="blue">GLA University</font> </b>where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.
+hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skilled in Team Motivation, Communication, English, Management, and Leadership. Strong operations professional with a Bachelor of Technology - BTech focused in Web-Development from <b >GLA University </b>where I am learning how to apply critical thinking and problem-solving strategies to today’s complex problems.
 </p>
 <ul>
 <li><img src="https://img.icons8.com/plasticine/50/000000/bag-front-view.png" width='30px' height='25px'> If you are interested in contacting me please <a href = "mailto: gkrati04@gmail.com">Email</a>, or feel free to connect with me on <a href="https://www.linkedin.com/in/krati-goyal-910a39212/">LinkedIn.
