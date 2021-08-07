@@ -31,3 +31,4 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&layout=compact)](https://github.com/kshitiz2001/github-readme-stats)
 <h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Databases Skillset</h2>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
