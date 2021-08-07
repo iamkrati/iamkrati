@@ -46,6 +46,6 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 <br><br><hr>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=iamkrati" alt="iamkrati" />
-<a href="https://www.linkedin.com/in/krati-goyal-910a39212/"><img src="https://img.shields.io/badge/-Krati Goyal-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
+<a href="https://www.linkedin.com/in/krati-goyal-910a39212/" target="blank"><img src="https://img.shields.io/badge/-Krati Goyal-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
 <a href="mailto:gkrati04@gmail.com"><img src="https://img.shields.io/badge/-gkrati04@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:gkrati04@gmail.com"></a>
 <a href="https://twitter.com/gupta_kush26"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20Krati_Goyal"></a>
