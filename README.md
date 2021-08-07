@@ -36,5 +36,10 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 <h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Framework Skillset</h2>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <br>
+<h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Social Skillset</h2>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
 📈 My GitHub Stats :
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
