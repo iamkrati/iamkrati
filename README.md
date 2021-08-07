@@ -43,3 +43,6 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 </p>
 📈 My GitHub Stats :
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
+<br>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=iamkrati" alt="iamkrati" />
