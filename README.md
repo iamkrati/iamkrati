@@ -11,7 +11,7 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
  Finding creative solutions to problems is something I have always enjoyed
 </li>
 <li>
- I’m looking to collaborate on open source projects<img src="icons8-document.gif" heigh="20px" width="30px">
+ I’m looking to collaborate on open source projects<img src="icons8-document.gif" heigh="10px" width="25px">
 </li>
 </ul>
 <h2 align="center"><img src="bolt.gif" width="30px">Technical Skillset</h2>
