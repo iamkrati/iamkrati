@@ -24,8 +24,6 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
-📈 My GitHub Stats :
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
 <br>
 📈 Languages used :
 
@@ -37,3 +35,6 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 </p>
 <h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Framework Skillset</h2>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+📈 My GitHub Stats :
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
