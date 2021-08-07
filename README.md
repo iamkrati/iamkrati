@@ -27,5 +27,8 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 
 📈 My GitHub Stats :
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
+<br>
 📈 Languages used :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrati&layout=compact)](https://github.com/iamkrati/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&layout=compact)](https://github.com/kshitiz2001/github-readme-stats)
