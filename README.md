@@ -16,3 +16,4 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 </ul>
 <h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Technical Skillset</h2>
 <hr>
+<a href='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
