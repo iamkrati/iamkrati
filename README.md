@@ -35,3 +35,5 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
+h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Framework Skillset</h2>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
