@@ -15,3 +15,4 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
 </li>
 </ul>
 <h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Technical Skillset</h2>
+<hr>
