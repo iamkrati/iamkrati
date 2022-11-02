@@ -14,38 +14,8 @@ hi, i'm Krati, a passionate self-taught upcoming full stack web developer. Skill
  I’m looking to collaborate on open source projects<img src="icons8-document.gif" heigh="10px" width="25px">
 </li>
 </ul>
-<h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Languages Skillset</h2>
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</p>
 
-<br>
-📈 Languages used :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitiz2001&layout=compact)](https://github.com/kshitiz2001/github-readme-stats)
-<h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Databases Skillset</h2>
-<p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-<h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Framework Skillset</h2>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<h2 align="center"><img src="—Pngtree—green computer icon_4714183.png" width="50px" height='50%'>Social Skillset</h2>
-<p>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</p>
-📈 My GitHub Stats :
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=iamkrati&show_icons=true&theme=gotham" alt="iamkrati" />
-<br><br><hr>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=iamkrati" alt="iamkrati" />
+s://komarev.com/ghpvc/?username=iamkrati" alt="iamkrati" />
 <a href="https://www.linkedin.com/in/krati-goyal-910a39212/" target="_blank"><img src="https://img.shields.io/badge/-Krati Goyal-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gupta-kushagra2620/"></a>
 <a href="mailto:gkrati04@gmail.com"><img src="https://img.shields.io/badge/-gkrati04@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:gkrati04@gmail.com"></a>
 <a href="https://twitter.com/gkrati04"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20Krati_Goyal"></a>
